@@ -25,5 +25,5 @@ export class BaseElement {
   enableJS() {
     componentHandler.upgradeElement(this.element[0]);
   }
-
 }
+
